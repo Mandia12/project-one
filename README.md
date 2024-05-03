@@ -1,6 +1,5 @@
 # project-one
 Shared repo for first project.
-Introduction
 Introduction to the analysis and its importance in understanding state preparedness for extreme weather events.
 Data Analysis
 Comparison of Texas, North Carolina, and New York in terms of extreme weather events, freezes, and Winter Storm Uri impact data collected from the National Centers for Environmental Information (NCEI).
